@@ -1,2 +1,3 @@
-# hello
-This my first program for github.com
+# Introduction
+
+This my first programming for git.com
